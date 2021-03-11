@@ -1,8 +1,9 @@
-<!DOCTYPE html>
+  ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PRETTY</title>
 <title>PRETTY</title>
 <meta name="description" content="">
 <meta name="author" content="">
@@ -40,16 +41,15 @@
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-      <a class="navbar-brand page-scroll" href="#page-top">PRETTY</a> </div>
-    
-    <!-- Collect the nav links, forms, and other content for toggling -->
+       <a class="navbar-brand page-scroll" href="#page-top">PRETTY </a> </div>
+      <li><a href="http://wa.me//254754683754" class="btn btn-custom btn-xs. page-scroll">Whatsapp</a> </div>
+     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#about" class="page-scroll">About</a></li>
         <li><a href="#services" class="page-scroll">Services</a></li>
-        <li><a href="#portfolio" class="page-scroll">Projects</a></li>
-       <!-- <li><a href="#team" class="page-scroll">Team</a></li> -->
-        <li><a href="#contact" class="page-scroll">Contact</a></li>
+        <li><a href="#portfolio" class="page-scroll">Products</a></li>
+         <li><a href="#contact" class="page-scroll">Contact Us</a></li>
       </ul>
     </div>
     <!-- /.navbar-collapse --> 
@@ -62,8 +62,8 @@
       <div class="container">
         <div class="row">
           <div class="intro-text">
-            <h1><strong>PRETTY</strong> <span>/</span>DECOR</h1>
-            <p>Luxury statement for your home.</p>
+            <h1><strong>PRETTY DIYs</strong> <span>/</span>&DECOR</h1>
+            <p>Inspired by You.</p>
             <a href="#about" class="btn btn-custom btn-lg page-scroll">Learn More</a> </div>
         </div>
       </div>
@@ -82,9 +82,15 @@
       <div class="col-xs-12 col-md-6">
         <div class="about-text">
           <h3>What we offer</h3>
-          <p>A quickest way to design your walls.We ensure that you transform your home/office at affordable rates.We offer decoration consultations,wallpaper and instalation services and general wall arts.</p>
-          <h3>How We Work</h3>
-          <p>We help you turn your vision into a reality by designing customized artworks to meet your preferences,we distribute and apply quality wallpapers.Always making our customers shine.</p>
+
+          <p>Our Contact Papers are waterproof,self adhesive(peel and stick on all smooth areas).
+Good for kitchen counters,cabinets,backsplash,wardbrobes,bathroom walls,furniture renovations,wood effect for the door,TV Stand etc.
+Planning to decorate?Pretty Decor has everything you need to turn your home or office into whatever you have in mind.
+Areas to stick contact papers:Tiles,Wooden surfaces,Walls,Glass,Backsplash area
+Areas to avoid:Dusty surfaces,oily and broken surfaces
+Installation Procedure: DIY ,need scissors,sharp knife (available at our outlet),plastic or a piece of cloth to squeeze the bubbles out.
+Need a fundi?Don't worry,we have fundis ready to attend to you. 
+We offer contact paper and wallpaper installation services,artificial plants ,throw pillows ,decor accessories among others.</p>
         </div>
       </div>
     </div>
@@ -94,22 +100,30 @@
 <div id="services">
   <div class="container">
     <div class="col-md-10 col-md-offset-1 section-title text-center">
-      <h2>Our Services</h2>
+      <h2>Services Offered</h2>
       <hr>
       <p>Fashion,luxury and design have no boundary,you think it we deliver</p>
     </div>
     <div class="row">
-      <div class="col-xs-12 col-sm-4 service"> <img src="img/image8.jpg" class="img-responsive" alt="Project Title">
-        <h3>WALLPAPER AND INSTALLATION</h3>
-        <p>We work for you, with you.Visualizing your dreams is our priority.</p>
+      <div class="col-xs-12 col-sm-4 service"> <img src="img/image8.jpg" class="img-responsive" alt="wallpaper">
+
+        <h3>MARBLE CONTACT PAPER AND INSTALLATION</h3>
+        <p>Contact papers are unique, durable ,Easty to fix,washable and affordable way to glam your kitchen or bathroom.Bored of dull old tiles?Contact paper got you, spice up your home/office with a wide selection of contact papers at Pretty decor.The results are breath taking,a marble paper make over can never dissapoint.</p>
       </div>
-      <div class="col-xs-12 col-sm-4 service"> <img src="img/image4.jpg" class="img-responsive" alt="Project Title">
-        <h3>SPACE DESIGN CONSULTATIONS</h3>
-        <p>We transform your office to a perfect working place for the perfect mood.</p>
+      <div class="col-xs-12 col-sm-4 service"> <img src="img/image4.jpg" class="img-responsive" alt="marble">
+
+        <h3>WALLPAPERS</h3>
+        <p>Brighten up your walls at affordable prices.Its perfect for living room and bedroom walls.Ask any interior designer about one of their favorite ways to inject personality into a room and chances are they'll recommend wallpaper. Whether it's an eye-catching removable design ,
+bold statement kind or a traditional style that requires more of a commitment, wallpaper can freshen up just about any space.
+A standard roll is 10m by 0.53cm.You need a packet of glue to fix the wallpaper.A packet can fix up to 5 rolls. </p>
       </div>
-      <div class="col-xs-12 col-sm-4 service"> <img src="img/imagetwo.jpg" class="img-responsive" alt="Project Title">
-        <h3>DECORATION SERVICES</h3>
-        <p>We provide high quality wallpapers to perfectly meet your preference.</p>
+      <div class="col-xs-12 col-sm-4 service"> <img src="img/imagetwo.jpg" class="img-responsive" alt="vase">
+
+        <h3>ARTIFICIAL PLANTS AND THROW PILLOWS</h3>
+        <p>To highlight every room you need to get creative and use some colorful Pillows,plants also bring a life mood ,they can be placed on the entrance corridors.Ensure you pair them for a matching result.
+Artificial plants are always “no high maintainance” .You like live plants but you always forget to care for them? Faux plants is for you.No committments(laughs).
+Visualizing your dreams is our priority.</p>
+          
       </div>
     </div>
   </div>
@@ -118,18 +132,15 @@
 <div id="portfolio">
   <div class="container">
     <div class="section-title text-center center">
-      <h2>Projects</h2>
+      <h2>Products</h2>
       <hr>
-      <p>Here is what we say,stay faithful to your own taste, because nothing you really like is ever out of style.We accomodate customized designs </p>
+      <p>Here is what we say,stay faithful to your own taste, because nothing you really like is ever out of style.</p>
     </div>
     <div class="categories">
       <ul class="cat">
         <li>
           <ol class="type">
-            <li><a href="#" data-filter="*" class="active">All Projects</a></li>
-            <li><a href="#" data-filter=".residential">Residential</a></li>
-            <li><a href="#" data-filter=".office">Office</a></li>
-            <li><a href="#" data-filter=".commercial">Commercial</a></li>
+            <li><a href="#" data-filter="*" class="active">All Products</a></li>
           </ol>
         </li>
       </ul>
@@ -139,157 +150,115 @@
       <div class="portfolio-items">
         <div class="col-sm-6 col-md-4 col-lg-4 home designs">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/01-large.png" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="img/portfolio/01-large.jpg" title="ITEM 1" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Project Name</h4>
+                <h4>kitchen contact paper</h4>
               </div>
-              <img src="img/portfolio/01-small.png" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="img/portfolio/01-small.jpg" class="img-responsive" alt="ITEM 2"> </a> </div>
+          </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 col-lg-4 commercial">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/02-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="img/portfolio/02-large.jpg" title="ITEM 3" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Project Name</h4>
+                <h4>Marble Contact paper</h4>
               </div>
-              <img src="img/portfolio/02-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="img/portfolio/02-small.jpg" class="img-responsive" alt="ITEM 4"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 col-lg-4 home designs">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/03-large.png" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="img/portfolio/03-large.jpg" title="ITEM 5" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Project Name</h4>
+                <h4>Plain contact paper</h4>
               </div>
-              <img src="img/portfolio/03-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="img/portfolio/03-small.jpg" class="img-responsive" alt="ITEM 6"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 col-lg-4 Home designs">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/04-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="img/portfolio/04-large.jpg" title="ITEM 7" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Project Name</h4>
+                <h4>Stainless Contact Paper</h4>
               </div>
-              <img src="img/portfolio/04-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="img/portfolio/04-small.jpg" class="img-responsive" alt="ITEM 8"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 col-lg-4 commercial">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/05-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="img/portfolio/05-large.jpg" title="ITEM 9" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Project Name</h4>
+                <h4>Bathroom Contact Papar</h4>
               </div>
-              <img src="img/portfolio/05-small.png" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="img/portfolio/05-small.jpg" class="img-responsive" alt="ITEM 10"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 col-lg-4 office">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/06-large.png" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="img/portfolio/06-large.jpg" title="ITEM 11" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Project Name</h4>
+                <h4>Counter tops</h4>
               </div>
-              <img src="img/portfolio/06-small.png" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="img/portfolio/06-small.jpg" class="img-responsive" alt="ITEM 12"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 col-lg-4 office">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/07-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="img/portfolio/07-large.jpg" title="ITEM 13" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Project Name</h4>
+                <h4>Door wood effect</h4>
               </div>
-              <img src="img/portfolio/07-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="img/portfolio/07-small.jpg" class="img-responsive" alt="ITEM 14"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 col-lg-4 residential">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/08-large.png" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="img/portfolio/08-large.jpg" title="ITEM 15" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Project Name</h4>
+                <h4>Dining Table</h4>
               </div>
-              <img src="img/portfolio/08-small.png" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="img/portfolio/08-small.jpg" class="img-responsives" alt="ITEM 16"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 col-lg-4 commercial">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/09-large.png" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="img/portfolio/09-large.jpg" title="ITEM 17" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Project Name</h4>
+                <h4>Kitchen Backsplash</h4>
               </div>
-              <img src="img/portfolio/09-small.png" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="img/portfolio/09-small.jpg" class="img-responsive" alt="ITEM 18"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 col-lg-4 office">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/10-large.png" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="img/portfolio/10-large.jpg" title="Project 10" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Project Name</h4>
+                <h4>Bathroom walls</h4>
               </div>
-              <img src="img/portfolio/10-small.png" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="img/portfolio/10-small.jpg" class="img-responsive" alt="Project 9"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 col-lg-4 office">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/11-large.png" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="img/portfolio/11-large.jpg" title="Project 8" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Project Name</h4>
+                <h4>Pillows and plants</h4>
               </div>
-              <img src="img/portfolio/11-small.png" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="img/portfolio/11-small.jpg" class="img-responsive" alt="Project 7"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 col-lg-4 residential">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/12-large.png" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="img/portfolio/12-large.jpg" title="Project 6" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Project Name</h4>
+                <h4>Accessories</h4>
               </div>
-              <img src="img/portfolio/12-small.png" class="img-responsive" alt="Project Title"> </a> </div>
+              </div>
+              <img src="img/portfolio/12-small.jpg" class="img-responsive" alt="Project 5"> </a> </div>
           </div>
         </div>
       </div>
-    </div>
-  </div>
-</div>
-<!-- Team Section 
-<div id="team" class="text-center">
-  <div class="overlay">
-    <div class="container">
-      <div class="col-md-8 col-md-offset-2 section-title">
-        <h2>Meet the Team</h2>
-        <hr>
-        <p>Our promise is to focus on you.</p>
-      </div>
-      <div id="row">
-        <div class="col-md-3 col-sm-6 team">
-          <div class="thumbnail"> <img src="img/team/01.jpg" alt="..." class="team-img">
-            <div class="caption">
-              <h3>Wendy K M</h3>
-              <p>Director</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-3 col-sm-6 team">
-          <div class="thumbnail"> <img src="img/team/02.jpg" alt="..." class="img-circle team-img">
-            <div class="caption">
-              <h3>Mike G</h3>
-              <p>Senior Designer</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-3 col-sm-6 team">
-          <div class="thumbnail"> <img src="img/team/03.jpg" alt="..." class="img-circle team-img">
-            <div class="caption">
-              <h3>Jade J</h3>
-              <p>Marketing Director</p>
-            </div>
-          </div>
-        </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>-->
 <!-- Contact Section -->
 <div id="contact">
   <div class="container">
@@ -301,8 +270,8 @@
     <div class="col-md-4">
       <h3>Contact Info</h3>
       <div class="contact-item"> <span>Address</span>
-        <p>Kenyatta University,<br>
-          Nairobi, Kenya</p>
+        <p>Mountain Mall,Thika Road<br>
+          Nairobi, Kenya 2nd floor C10</p>
       </div>
       <div class="contact-item"> <span>Email</span>
         <p>theprettydecor@gmail.com</p>
@@ -342,14 +311,13 @@
   <div class="container text-center">
     <div class="social">
       <ul>
-        <li><a href="prettydecor"><i class="fa fa-facebook"></i></a></li>
-        <li><a href="@perrtydecor"><i class="fa fa-twitter"></i></a></li>
-        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-        <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+        <li><a href="http://wa.me//254754683754"><i class="fa fa-whatsapp"></i></a></li>
+        <li><a href="prettydecorke"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="@perrtydecorke"><i class="fa fa-twitter"></i></a></li>
       </ul>
     </div>
     <div>
-      <p>&copy; 2018 PrettyD. All rights reserved. Designed by <a href="http://www.prettydecor.com" rel="go to prettydecor">PrettyDecor</a></p>
+      <p>&copy; 2018-2021 PrettyDiys&Decor. All rights reserved. Designed by <a href="http://www.prettydecor.com" rel="go to prettydecor">PrettyDecor</a></p>
     </div>
   </div>
 </div>
